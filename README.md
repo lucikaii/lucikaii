@@ -1,5 +1,7 @@
 ### Alô, Alô, aqui é o Kai! 👋
 
+<img src="https://media2.giphy.com/media/Jkk64Xj64mcfu/giphy.gif?cid=ecf05e47frajvx71r7k8yteya05i7389cc6rvdrw2d9bo5ch&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 <!--
 **lucikaii/lucikaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
